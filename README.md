@@ -1,5 +1,7 @@
 # SuperAI6 IoT / MQTT Attack Detection (v13)
 
+[Writeup](https://kaggle.com/competitions/superai6-iot-attack-detection/writeups/lesson-learn-by)
+
 **Final result:** Public F1 `0.97434` · **Private F1 `0.98149`** (predicted attack: 2,871 / 10,000)
 วิธี: **rule-based one-class novelty detection**  ไม่ใช้ ML
 
